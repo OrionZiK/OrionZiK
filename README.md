@@ -5,6 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 01 October 2022 - To: 08 October 2022
+
+Total Time: 16 mins
+
 Java   14 mins         ██████████████████████▒░░   88.98 %
 XML    1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
 ```
