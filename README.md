@@ -5,10 +5,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
-
-Total Time: 12 hrs 44 mins
-
 Java            7 hrs 59 mins   ███████████████▒░░░░░░░░░   61.89 %
 XML             3 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
 YAML            48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
